@@ -1,4 +1,6 @@
-[election_results_2024.csv](https://github.com/user-attachments/files/19069993/election_results_2024.csv)# 🗳️ Lok Sabha Election 2024 Dashboard – Excel Data Visualization  
+[election_results_2024.csv](https://github.com/user-attachments/files/19069993/election_results_2024.csv)
+
+# 🗳️ Lok Sabha Election 2024 Dashboard – Excel Data Visualization  
 
 ## Overview  
 This **interactive Excel dashboard** provides a **comprehensive analysis** of the **Lok Sabha Election 2024** results. It offers **dynamic visualizations** and **insights** into leading parties, trailing parties, vote margins, and constituency-wise results.  
